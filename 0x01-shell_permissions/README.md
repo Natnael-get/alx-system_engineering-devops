@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> README
 task 0- swiches the current user to the user name betty
 task 1- displays the effective usernames of the current users
 task 2-this displays the groups that the current user name is a part of
@@ -14,9 +17,12 @@ task 10- sets the mode of the file as its mirror image
 task 11-adds permission to all sub directoires of the current directories
 task 12-create directory with specific permissions
 task 13 change group owner to other file
+<<<<<<< HEAD
 =======
 this is the shell permission readme file
 >>>>>>> task 0
 =======
 
 >>>>>>> the read me
+=======
+>>>>>>> README
